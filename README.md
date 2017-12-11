@@ -26,3 +26,7 @@ cd computervision/
 
 ##
 
+----
+Inspirations:
+- https://github.com/Kaixhin/dockerfiles
+- https://github.com/adamhrv/docker
